@@ -1,0 +1,19 @@
+{
+	"node": "n8n-nodes-lohnica",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Finance & Accounting"],
+	"alias": ["Payroll", "Salary", "Gross to Net", "Net to Gross", "Tax", "Germany", "Lohn", "Brutto Netto"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://api-portal.lohnica.de"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://api-portal.lohnica.de"
+			}
+		]
+	}
+}
