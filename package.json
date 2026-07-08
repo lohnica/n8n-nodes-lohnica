@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-lohnica",
+  "name": "@lohnica/n8n-nodes-lohnica",
   "version": "0.1.0",
   "description": "n8n node for the Lohnica German payroll API: gross-to-net, net-to-gross and cost-to-net calculations plus health insurance lookup",
   "license": "MIT",
@@ -20,6 +20,7 @@
     "prepublishOnly": "n8n-node prerelease"
   },
   "files": ["dist"],
+  "publishConfig": { "access": "public" },
   "n8n": {
     "n8nNodesApiVersion": 1,
     "strict": true,
