@@ -1,6 +1,6 @@
 {
   "name": "@lohnica/n8n-nodes-lohnica",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n node for the Lohnica German payroll API: gross-to-net, net-to-gross and cost-to-net calculations plus health insurance lookup",
   "license": "MIT",
   "homepage": "https://brutto-netto-api.de",
