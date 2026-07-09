@@ -1,11 +1,11 @@
 {
   "name": "@lohnica/n8n-nodes-lohnica",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "n8n node for the Lohnica German payroll API: gross-to-net, net-to-gross and cost-to-net calculations plus health insurance lookup",
   "license": "MIT",
   "homepage": "https://brutto-netto-api.de",
   "keywords": ["n8n-community-node-package", "n8n", "lohnica", "payroll", "lohn", "brutto-netto", "germany"],
-  "author": { "name": "M. Kreis", "email": "mail@mariuskreis.de" },
+  "author": { "name": "M. Kreis", "email": "marius.kreis@lohnica.de" },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lohnica/n8n-nodes-lohnica.git"
